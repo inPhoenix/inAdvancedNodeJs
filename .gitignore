@@ -10,6 +10,7 @@
 SECRETS.md
 INFO.md
 /config/keys.js
+/config/dev.js
 /assets
 
 # testing
