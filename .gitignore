@@ -4,6 +4,7 @@
 /node_modules
 .cache
 .idea
+secrets.js
 
 # secret
 # src/firebase.js
