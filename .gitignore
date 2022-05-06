@@ -10,7 +10,6 @@ secrets.js
 # src/firebase.js
 SECRETS.md
 INFO.md
-/config/keys.js
 /config/dev.js
 /assets
 
